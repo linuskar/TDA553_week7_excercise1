@@ -1,0 +1,113 @@
+2022.12.09 13:56:59 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/robin/work/teaching/TDA553/exercise7-1/exercise41/.metals/lsp.trace.json or /home/robin/.cache/metals/lsp.trace.json
+2022.12.09 13:57:02 INFO  logging to file /home/robin/work/teaching/TDA553/exercise7-1/exercise41/.metals/metals.log
+2022.12.09 13:57:02 INFO  Started: Metals version 0.11.9 in workspace '/home/robin/work/teaching/TDA553/exercise7-1/exercise41' for client Visual Studio Code 1.74.0.
+2022.12.09 13:57:06 INFO  time: initialize in 4.3s
+2022.12.09 13:57:08 WARN  Build server is not auto-connectable.
+2022.12.09 13:57:08 WARN  no build tool detected in workspace '/home/robin/work/teaching/TDA553/exercise7-1/exercise41'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2022.12.09 14:02:40 WARN  no build target for: /home/robin/work/teaching/TDA553/exercise7-1/exercise41/Tuple.java
+2022.12.09 14:02:43 INFO  time: code lens generation in 2.21s
+2022.12.09 14:02:49 WARN  no build target for: /home/robin/work/teaching/TDA553/exercise7-1/exercise41/TestTuple.java
+Dec 09, 2022 2:02:53 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 16
+2022.12.09 14:03:02 WARN  no build target for: /home/robin/work/teaching/TDA553/exercise7-1/exercise41/TestTuple.java
+2022.12.09 14:03:06 INFO  time: code lens generation in 2.32s
+Dec 09, 2022 2:03:50 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 174
+Dec 09, 2022 2:03:53 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 189
+Dec 09, 2022 2:04:01 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 223
+Dec 09, 2022 2:04:50 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 427
+2022.12.09 14:05:08 WARN  no build target for: /home/robin/work/teaching/TDA553/exercise7-1/exercise41/animalshelter/CatShelter.java
+2022.12.09 14:05:10 INFO  time: code lens generation in 1.11s
+Dec 09, 2022 2:05:32 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 501
+Dec 09, 2022 2:05:50 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 567
+Dec 09, 2022 2:06:07 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 620
+Dec 09, 2022 2:07:03 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 821
+Dec 09, 2022 2:07:30 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 888
+Dec 09, 2022 2:07:51 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 969
+Dec 09, 2022 2:08:11 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1012
+2022.12.09 14:26:35 WARN  no build target for: /home/robin/work/teaching/TDA553/exercise7-1/exercise41/TestTuple.java
+2022.12.09 14:26:37 WARN  Running javac-semanticdb failed for file:///home/robin/work/teaching/TDA553/exercise7-1/exercise41/TestTuple.java. Output:
+/home/robin/work/teaching/TDA553/exercise7-1/exercise41/TestTuple.java:14: error: ';' expected
+            System.out.println("Second test passed!")
+                                                     ^
+/home/robin/work/teaching/TDA553/exercise7-1/exercise41/TestTuple.java:22: error: ';' expected
+            System.out.println("Second test passed!")
+                                                     ^
+/home/robin/work/teaching/TDA553/exercise7-1/exercise41/TestTuple.java:30: error: ';' expected
+            System.out.println("Second test passed!")
+                                                     ^
+/home/robin/work/teaching/TDA553/exercise7-1/exercise41/TestTuple.java:37: error: ';' expected
+            System.out.println("Second test passed!")
+                                                     ^
+4 errors
+2022.12.09 14:26:53 INFO  shutting down Metals
+2022.12.09 14:55:58 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/robin/work/teaching/TDA553/exercise7-1/exercise41/.metals/lsp.trace.json or /home/robin/.cache/metals/lsp.trace.json
+2022.12.09 14:56:05 INFO  logging to file /home/robin/work/teaching/TDA553/exercise7-1/exercise41/.metals/metals.log
+2022.12.09 14:56:05 INFO  Started: Metals version 0.11.9 in workspace '/home/robin/work/teaching/TDA553/exercise7-1/exercise41' for client Visual Studio Code 1.74.0.
+2022.12.09 14:56:19 INFO  time: initialize in 14s
+2022.12.09 14:56:25 WARN  Build server is not auto-connectable.
+2022.12.09 14:56:25 WARN  no build tool detected in workspace '/home/robin/work/teaching/TDA553/exercise7-1/exercise41'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2022.12.09 14:56:25 WARN  no build target for: /home/robin/work/teaching/TDA553/exercise7-1/exercise41/TestTuple.java
+Dec 09, 2022 2:56:26 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2
+Dec 09, 2022 2:56:27 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6
+Dec 09, 2022 2:56:27 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10
+Dec 09, 2022 2:56:27 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 17
+Dec 09, 2022 2:56:27 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 18
+2022.12.09 14:56:28 WARN  Running javac-semanticdb failed for file:///home/robin/work/teaching/TDA553/exercise7-1/exercise41/TestTuple.java. Output:
+/home/robin/work/teaching/TDA553/exercise7-1/exercise41/TestTuple.java:14: error: ';' expected
+            System.out.println("Second test passed!")
+                                                     ^
+/home/robin/work/teaching/TDA553/exercise7-1/exercise41/TestTuple.java:22: error: ';' expected
+            System.out.println("Second test passed!")
+                                                     ^
+/home/robin/work/teaching/TDA553/exercise7-1/exercise41/TestTuple.java:30: error: ';' expected
+            System.out.println("Second test passed!")
+                                                     ^
+/home/robin/work/teaching/TDA553/exercise7-1/exercise41/TestTuple.java:37: error: ';' expected
+            System.out.println("Second test passed!")
+                                                     ^
+4 errors
+2022.12.09 14:56:28 INFO  time: code lens generation in 1.72s
+Dec 09, 2022 2:56:30 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 23
+Dec 09, 2022 2:56:30 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 24
+2022.12.09 14:56:35 WARN  no build target for: /home/robin/work/teaching/TDA553/exercise7-1/exercise41/TestTuple.java
+Dec 09, 2022 2:56:37 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 37
+2022.12.09 14:56:38 WARN  Running javac-semanticdb failed for file:///home/robin/work/teaching/TDA553/exercise7-1/exercise41/TestTuple.java. Output:
+/home/robin/work/teaching/TDA553/exercise7-1/exercise41/TestTuple.java:14: error: ';' expected
+            System.out.println("Second test passed!")
+                                                     ^
+/home/robin/work/teaching/TDA553/exercise7-1/exercise41/TestTuple.java:22: error: ';' expected
+            System.out.println("Second test passed!")
+                                                     ^
+/home/robin/work/teaching/TDA553/exercise7-1/exercise41/TestTuple.java:30: error: ';' expected
+            System.out.println("Second test passed!")
+                                                     ^
+/home/robin/work/teaching/TDA553/exercise7-1/exercise41/TestTuple.java:38: error: ';' expected
+            System.out.println("Third test passed!")
+                                                    ^
+4 errors
+2022.12.09 14:56:38 INFO  time: code lens generation in 1.07s
+2022.12.09 14:56:42 WARN  no build target for: /home/robin/work/teaching/TDA553/exercise7-1/exercise41/Tuple.java
+2022.12.09 14:56:44 INFO  time: code lens generation in 1.39s
+2022.12.09 14:56:48 WARN  no build target for: /home/robin/work/teaching/TDA553/exercise7-1/exercise41/animalshelter/Animal.java
+2022.12.09 14:56:50 INFO  time: code lens generation in 1.04s
+Dec 09, 2022 2:56:52 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
