@@ -3,14 +3,14 @@ package animalshelter;
 /**
  * Created by Niklas on 2016-02-07.
  */
-public class DogShelter extends AnimalShelter {
+public class DogShelter<T extends Dog> extends AnimalShelter<Dog> {
 
     @Override
     Dog adoptAnimal(){
         return (Dog) super.adoptAnimal();
     }
 
-    void putAnimal(Dog dog){
+    void putAnimal(T dog){
         super.putAnimal(dog);
     }
 }
